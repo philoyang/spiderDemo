@@ -1,0 +1,8 @@
+{
+  "name": "spider ifeng rencaiku",
+  "version": "0.0.1",
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "json2csv": "^3.7.3"
+  }
+}
